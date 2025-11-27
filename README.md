@@ -111,8 +111,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-<img src="slot/Screenshot 2025-11-27 210809.png">
-<img src="slot/Screenshot 2025-11-27 210855.png">
+<img src=""D:\web\ex2\slot\Screenshot 2025-11-27 210809.png"">
+<img src=""D:\web\ex2\slot\Screenshot 2025-11-27 210855.png"">
 
 
 ## RESULT
