@@ -26,7 +26,8 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
-'''
+
+~~~
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -105,15 +106,11 @@ Execute the program using runserver command.
 <td align="center">19AI414</td>
 <td>WEB APPLICATION(FWAD)</td>
 </tr>
-
-'''
-
+~~~
 
 ## OUTPUT
-
-<img src=""D:\web\ex2\slot\Screenshot 2025-11-27 210809.png"">
-<img src=""D:\web\ex2\slot\Screenshot 2025-11-27 210855.png"">
-
+![alt text](<Screenshot 2025-11-27 210809.png>)
+![alt text](<Screenshot 2025-11-27 210855.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
