@@ -25,8 +25,6 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
-
 ~~~
 <html>
 <head>
@@ -37,18 +35,18 @@ Execute the program using runserver command.
 <img src="/static/logo.png" height="100" width="540">
 </center>
 <br>
-<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="#0c90f5">
 <caption><b>SLOT TIME TABLE - Sadhana K (25013407)</b></caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">Monday</th>
-<th bgcolor="yellow">Tuesday</th>
-<th bgcolor="yellow">Wednesday</th>
-<th bgcolor="yellow">Thursday</th>
-<th bgcolor="yellow">Friday</th>
+<th bgcolor="#b930f0">Day/Time</th>
+<th bgcolor="#b930f0">Monday</th>
+<th bgcolor="#b930f0">Tuesday</th>
+<th bgcolor="#b930f0">Wednesday</th>
+<th bgcolor="#b930f0">Thursday</th>
+<th bgcolor="#b930f0">Friday</th>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">8-10</th>
+<th bgcolor="#b930f0">8-10</th>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
 <td>COMMUNICATIVE ENGLISH</td>
@@ -56,7 +54,7 @@ Execute the program using runserver command.
 <td>FREE SLOT</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">10-12</th>
+<th bgcolor="#b930f0">10-12</th>
 <td>FREE SLOT</td>
 <td>PYTHON</td>
 <td>WEB APPLICATION</td>
@@ -64,11 +62,11 @@ Execute the program using runserver command.
 <td>WEB APPLICATION</td>
 </tr>
 <tr>
-<th bgcolor="yellow">12-1</th>
+<th bgcolor="#b930f0">12-1</th>
 <td colspan="5" align="center">L U N C H</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">1-3</th>
+<th bgcolor="#b930f0">1-3</th>
 <td>FREE SLOT</td>
 <td>COMMUNICATIVE ENGLISH</td>
 <td>FREE SLOT</td>
@@ -76,7 +74,7 @@ Execute the program using runserver command.
 <td>FREE SLOT</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">3-5</th>
+<th bgcolor="#b930f0">3-5</th>
 <td>FREE SLOT</td>
 <td>PYTHON</td>
 <td>PYTHON</td>
@@ -109,8 +107,9 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-27 210809.png>)
-![alt text](<Screenshot 2025-11-27 210855.png>)
+![alt text](<Screenshot 2025-12-05 194554.png>)
+![alt text](<Screenshot 2025-12-05 195910.png>)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
